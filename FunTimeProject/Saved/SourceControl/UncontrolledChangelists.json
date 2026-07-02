@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Unreal Projects/EtAa/FunTimeProject/Content/ThirdPerson/Blueprints/BP_PlayerCharacter.uasset",
+				"E:/Unreal Projects/EtAa/FunTimeProject/Content/Input/Actions/IA_Run.uasset",
+				"E:/Unreal Projects/EtAa/FunTimeProject/Content/Input/IMC_Default.uasset",
 				"E:/Unreal Projects/FunTimeProject/Content/ThirdPerson/Blueprints/BP_PlayerCharacter.uasset",
 				"E:/Unreal Projects/FunTimeProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
